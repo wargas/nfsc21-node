@@ -9,6 +9,7 @@ Instale a biblioteca:
 Gere um array como os campos e linhas
 
 `const nfsc = new Nfsc(data)`
+
 `const { cadastros, items, mestres} = nfsc.make()`
 
 Os arquivos serão gerados pelo usuário da forma mais conveniente.
