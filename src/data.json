@@ -1,0 +1,41 @@
+{
+	"cnpj": 18180990000152,
+	"competencia": "2009",
+	"emissao": "20200910",
+	"numero": 100,
+	"uf": "PE",
+	"items": [
+		{
+			"nome": "Leonardo Pereira de Souza",
+			"documento": "42613387009",
+			"uf": "PE",
+			"cliente_id": "200",
+			"fatura_id": "10002",
+			"valor": 69.9,
+			"telefone": "87999730129",
+			"logradouro": "Rua Joaqui da Silva",
+			"complemento": "CASA",
+			"numero": "1",
+			"cep": "56210000",
+			"bairro": "Distrito do Socorro",
+			"cidade": "Santa Filomena",
+			"ibge": "2612554"
+		},
+		{
+			"nome": "Wargas Delmondes Teixeira",
+			"documento": "08948842471",
+			"uf": "PE",
+			"cliente_id": "199",
+			"fatura_id": "10001",
+			"valor": 59.99,
+			"telefone": "87999730129",
+			"logradouro": "Rua Prefeito Antonio Andre Cavalcanti",
+			"complemento": "1 andar",
+			"numero": "246",
+			"cep": "56180-000",
+			"bairro": "Centro",
+			"cidade": "Cabrobó",
+			"ibge": "2603009"
+		}		
+	]
+}
