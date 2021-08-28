@@ -6,7 +6,11 @@
   "scripts": {
     "test": "test"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["SEFAZ", "NFSC21", "nodejs", "Provedor"],
+  "repository": {
+		"type": "git",
+		"url": "git+https://github.com/wargas/nfsc21-node.git"
+	},
+  "author": "Wargas Teixeira",
   "license": "ISC"
 }
